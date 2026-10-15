@@ -1,5 +1,5 @@
 # headset-stand
-Headset Stand is a simple and light-weight stand to mount your headset when unused
+Headset Stand is a simple and lightweight stand to mount your headset when unused.
 
 ## What is this?
 Headset Stand is a minimal, sleek stand to mount your headset when you're not using it, keeping your desk organized. Designed from scratch in Onshape, this stand is compatible with various headset types. It has a ground clearance height of ~20 cm, high enough for big headsets.
