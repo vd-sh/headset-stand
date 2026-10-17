@@ -28,6 +28,13 @@ Click [here](https://cad.onshape.com/documents/4886047b3dee1e8d855dfb55/w/a65c90
 3. Go to your fabricater/ manufacturer website, get a quote, and purchase it (For Example, [ROBU](https://robu.in) or [JLCPCB](https://jlcpcb.com))
 4. That's it! Wait for it to arrive and mount your headset!
 
+## [BOM](BOM.csv) as a table
+| Item     | Description | Quantity | Price (USD) | Link                             |
+|----------|-------------|----------|-------------|----------------------------------|
+| 3D print | PLA (85 gm) | 1        | 4.5         | https://printlegion.hackclub.com |
+| Shipping |             |          | 1           |                                  |
+| Total    |             |          | 5.5         |                                  |
+
 ## Fabrication Specs
 1. Printer- 0.2 mm Standard Quality
 2. Material- PLA
