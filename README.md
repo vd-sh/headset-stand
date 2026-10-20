@@ -24,9 +24,9 @@ Click [here](https://cad.onshape.com/documents/4886047b3dee1e8d855dfb55/w/a65c90
 2. Import the file into your CAD editor and make edits as you want (Optional)
 3. Go to your fabricater/ manufacturer website, get a quote, and purchase it (For Example, [ROBU](https://robu.in) or [JLCPCB](https://jlcpcb.com))
 4. Wait for it to arrive
-5. For assembling it you will need superglue
-6. As seen in the reference image you can just apply small amount of superglue (Optional) in the stem and holder to lock them in
-7. Thats it! Go mount your headset!
+5. For assembling it, you will need superglue
+6. As seen in the reference image, you can apply a small amount of superglue (Optional) in the stem and holder to lock them in
+7. That's it! Mount your headset!
 
 ## [BOM](BOM.csv) as a table
 | Item     | Description | Quantity | Price (USD) | Link                             |
