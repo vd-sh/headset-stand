@@ -9,16 +9,11 @@ Headset Stand is a minimal, sleek stand to mount your headset when you're not us
 ## Repository Structure
 ```text
 headset-stand/
-|
-|---- Assets/-----------# Images and visual references for the project
-|
-|---- Hardware/---------# Source design files for the CAD
-|
-|---- BOM.csv-----------# Bill of materials
-|
-|---- LICENSE-----------# MIT License
-|
-|---- README.md---------# Project documentation and instructions
+1] Assets/----> All the images and visual references of the project
+2] Hardware/--> Source design files
+3] BOM.csv----> Bill of materials
+4] LICENSE----> MIT License
+5] README.md --> Detailed project documentation and instructions
 ```
 
 ## Live 3d view in Onshape
@@ -28,7 +23,10 @@ Click [here](https://cad.onshape.com/documents/4886047b3dee1e8d855dfb55/w/a65c90
 1. Download the source CAD .step files from the [Hardware](Hardware/) directory
 2. Import the file into your CAD editor and make edits as you want (Optional)
 3. Go to your fabricater/ manufacturer website, get a quote, and purchase it (For Example, [ROBU](https://robu.in) or [JLCPCB](https://jlcpcb.com))
-4. That's it! Wait for it to arrive and mount your headset!
+4. Wait for it to arrive
+5. For assembling it you will need superglue
+6. As seen in the reference image you can just apply small amount of superglue (Optional) in the stem and holder to lock them in
+7. Thats it! Go mount your headset!
 
 ## [BOM](BOM.csv) as a table
 | Item     | Description | Quantity | Price (USD) | Link                             |
